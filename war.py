@@ -38,5 +38,4 @@ def main():
 #output in console
     print(f"Logs saved to {filename}.txt and {filename}.html")
 
-if __name__ == "__main__":
-    main()
+main()
